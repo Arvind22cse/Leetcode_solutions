@@ -21,4 +21,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2448-count-number-of-bad-pairs](https://github.com/Arvind22cse/Leetcode_solutions/tree/master/2448-count-number-of-bad-pairs) |
+## String
+|  |
+| ------- |
+| [0468-validate-ip-address](https://github.com/Arvind22cse/Leetcode_solutions/tree/master/0468-validate-ip-address) |
 <!---LeetCode Topics End-->
