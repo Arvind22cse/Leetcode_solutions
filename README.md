@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0888-mirror-reflection](https://github.com/Arvind22cse/Leetcode_solutions/tree/master/0888-mirror-reflection) |
 | [2448-count-number-of-bad-pairs](https://github.com/Arvind22cse/Leetcode_solutions/tree/master/2448-count-number-of-bad-pairs) |
 ## Counting
 |  |
@@ -54,4 +55,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Arvind22cse/Leetcode_solutions/tree/master/2021-remove-all-occurrences-of-a-substring) |
+## Geometry
+|  |
+| ------- |
+| [0888-mirror-reflection](https://github.com/Arvind22cse/Leetcode_solutions/tree/master/0888-mirror-reflection) |
+## Number Theory
+|  |
+| ------- |
+| [0888-mirror-reflection](https://github.com/Arvind22cse/Leetcode_solutions/tree/master/0888-mirror-reflection) |
 <!---LeetCode Topics End-->
