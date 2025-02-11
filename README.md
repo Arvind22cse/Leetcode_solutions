@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0468-validate-ip-address](https://github.com/Arvind22cse/Leetcode_solutions/tree/master/0468-validate-ip-address) |
+| [2021-remove-all-occurrences-of-a-substring](https://github.com/Arvind22cse/Leetcode_solutions/tree/master/2021-remove-all-occurrences-of-a-substring) |
 ## Matrix
 |  |
 | ------- |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [2021-remove-all-occurrences-of-a-substring](https://github.com/Arvind22cse/Leetcode_solutions/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2411-spiral-matrix-iv](https://github.com/Arvind22cse/Leetcode_solutions/tree/master/2411-spiral-matrix-iv) |
 ## Greedy
 |  |
@@ -48,4 +50,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1961-maximum-ice-cream-bars](https://github.com/Arvind22cse/Leetcode_solutions/tree/master/1961-maximum-ice-cream-bars) |
+## Stack
+|  |
+| ------- |
+| [2021-remove-all-occurrences-of-a-substring](https://github.com/Arvind22cse/Leetcode_solutions/tree/master/2021-remove-all-occurrences-of-a-substring) |
 <!---LeetCode Topics End-->
