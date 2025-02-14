@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1025-minimum-cost-for-tickets](https://github.com/Arvind22cse/Leetcode_solutions/tree/master/1025-minimum-cost-for-tickets) |
+| [1477-product-of-the-last-k-numbers](https://github.com/Arvind22cse/Leetcode_solutions/tree/master/1477-product-of-the-last-k-numbers) |
 | [1961-maximum-ice-cream-bars](https://github.com/Arvind22cse/Leetcode_solutions/tree/master/1961-maximum-ice-cream-bars) |
 | [2411-spiral-matrix-iv](https://github.com/Arvind22cse/Leetcode_solutions/tree/master/2411-spiral-matrix-iv) |
 | [2448-count-number-of-bad-pairs](https://github.com/Arvind22cse/Leetcode_solutions/tree/master/2448-count-number-of-bad-pairs) |
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0888-mirror-reflection](https://github.com/Arvind22cse/Leetcode_solutions/tree/master/0888-mirror-reflection) |
+| [1477-product-of-the-last-k-numbers](https://github.com/Arvind22cse/Leetcode_solutions/tree/master/1477-product-of-the-last-k-numbers) |
 | [2448-count-number-of-bad-pairs](https://github.com/Arvind22cse/Leetcode_solutions/tree/master/2448-count-number-of-bad-pairs) |
 ## Counting
 |  |
@@ -73,4 +75,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0086-partition-list](https://github.com/Arvind22cse/Leetcode_solutions/tree/master/0086-partition-list) |
+## Design
+|  |
+| ------- |
+| [1477-product-of-the-last-k-numbers](https://github.com/Arvind22cse/Leetcode_solutions/tree/master/1477-product-of-the-last-k-numbers) |
+## Data Stream
+|  |
+| ------- |
+| [1477-product-of-the-last-k-numbers](https://github.com/Arvind22cse/Leetcode_solutions/tree/master/1477-product-of-the-last-k-numbers) |
+## Prefix Sum
+|  |
+| ------- |
+| [1477-product-of-the-last-k-numbers](https://github.com/Arvind22cse/Leetcode_solutions/tree/master/1477-product-of-the-last-k-numbers) |
 <!---LeetCode Topics End-->
