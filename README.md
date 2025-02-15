@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0885-exam-room](https://github.com/Arvind22cse/Leetcode_solutions/tree/master/0885-exam-room) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Arvind22cse/Leetcode_solutions/tree/master/1477-product-of-the-last-k-numbers) |
 ## Data Stream
 |  |
@@ -87,4 +88,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1477-product-of-the-last-k-numbers](https://github.com/Arvind22cse/Leetcode_solutions/tree/master/1477-product-of-the-last-k-numbers) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0885-exam-room](https://github.com/Arvind22cse/Leetcode_solutions/tree/master/0885-exam-room) |
+## Ordered Set
+|  |
+| ------- |
+| [0885-exam-room](https://github.com/Arvind22cse/Leetcode_solutions/tree/master/0885-exam-room) |
 <!---LeetCode Topics End-->
