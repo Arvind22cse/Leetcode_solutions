@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Arvind22cse/Leetcode_solutions/tree/master/0023-merge-k-sorted-lists) |
 | [0086-partition-list](https://github.com/Arvind22cse/Leetcode_solutions/tree/master/0086-partition-list) |
 | [0092-reverse-linked-list-ii](https://github.com/Arvind22cse/Leetcode_solutions/tree/master/0092-reverse-linked-list-ii) |
 | [2411-spiral-matrix-iv](https://github.com/Arvind22cse/Leetcode_solutions/tree/master/2411-spiral-matrix-iv) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Arvind22cse/Leetcode_solutions/tree/master/0023-merge-k-sorted-lists) |
 | [0885-exam-room](https://github.com/Arvind22cse/Leetcode_solutions/tree/master/0885-exam-room) |
 ## Ordered Set
 |  |
@@ -124,4 +126,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/Arvind22cse/Leetcode_solutions/tree/master/1093-recover-a-tree-from-preorder-traversal) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Arvind22cse/Leetcode_solutions/tree/master/0023-merge-k-sorted-lists) |
+## Merge Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Arvind22cse/Leetcode_solutions/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
