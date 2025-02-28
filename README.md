@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Arvind22cse/Leetcode_solutions/tree/master/0015-3sum) |
+| [0018-4sum](https://github.com/Arvind22cse/Leetcode_solutions/tree/master/0018-4sum) |
 | [0037-sudoku-solver](https://github.com/Arvind22cse/Leetcode_solutions/tree/master/0037-sudoku-solver) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Arvind22cse/Leetcode_solutions/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [1025-minimum-cost-for-tickets](https://github.com/Arvind22cse/Leetcode_solutions/tree/master/1025-minimum-cost-for-tickets) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Arvind22cse/Leetcode_solutions/tree/master/0015-3sum) |
+| [0018-4sum](https://github.com/Arvind22cse/Leetcode_solutions/tree/master/0018-4sum) |
 | [1961-maximum-ice-cream-bars](https://github.com/Arvind22cse/Leetcode_solutions/tree/master/1961-maximum-ice-cream-bars) |
 ## Counting Sort
 |  |
@@ -95,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Arvind22cse/Leetcode_solutions/tree/master/0015-3sum) |
+| [0018-4sum](https://github.com/Arvind22cse/Leetcode_solutions/tree/master/0018-4sum) |
 | [0086-partition-list](https://github.com/Arvind22cse/Leetcode_solutions/tree/master/0086-partition-list) |
 ## Design
 |  |
