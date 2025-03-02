@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2107-find-unique-binary-string](https://github.com/Arvind22cse/Leetcode_solutions/tree/master/2107-find-unique-binary-string) |
 | [2411-spiral-matrix-iv](https://github.com/Arvind22cse/Leetcode_solutions/tree/master/2411-spiral-matrix-iv) |
 | [2448-count-number-of-bad-pairs](https://github.com/Arvind22cse/Leetcode_solutions/tree/master/2448-count-number-of-bad-pairs) |
+| [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Arvind22cse/Leetcode_solutions/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 ## Hash Table
 |  |
 | ------- |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1160-letter-tile-possibilities](https://github.com/Arvind22cse/Leetcode_solutions/tree/master/1160-letter-tile-possibilities) |
 | [2107-find-unique-binary-string](https://github.com/Arvind22cse/Leetcode_solutions/tree/master/2107-find-unique-binary-string) |
 | [2448-count-number-of-bad-pairs](https://github.com/Arvind22cse/Leetcode_solutions/tree/master/2448-count-number-of-bad-pairs) |
+| [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Arvind22cse/Leetcode_solutions/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 ## Math
 |  |
 | ------- |
@@ -99,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Arvind22cse/Leetcode_solutions/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Arvind22cse/Leetcode_solutions/tree/master/0018-4sum) |
 | [0086-partition-list](https://github.com/Arvind22cse/Leetcode_solutions/tree/master/0086-partition-list) |
+| [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Arvind22cse/Leetcode_solutions/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 ## Design
 |  |
 | ------- |
