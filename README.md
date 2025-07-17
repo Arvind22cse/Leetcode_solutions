@@ -161,4 +161,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/Arvind22cse/Leetcode_solutions/tree/master/0570-managers-with-at-least-5-direct-reports) |
+| [1338-queries-quality-and-percentage](https://github.com/Arvind22cse/Leetcode_solutions/tree/master/1338-queries-quality-and-percentage) |
 <!---LeetCode Topics End-->
