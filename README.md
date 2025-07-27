@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/Arvind22cse/Leetcode_solutions/tree/master/0032-longest-valid-parentheses) |
 | [0242-valid-anagram](https://github.com/Arvind22cse/Leetcode_solutions/tree/master/0242-valid-anagram) |
 | [0468-validate-ip-address](https://github.com/Arvind22cse/Leetcode_solutions/tree/master/0468-validate-ip-address) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/Arvind22cse/Leetcode_solutions/tree/master/1093-recover-a-tree-from-preorder-traversal) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/Arvind22cse/Leetcode_solutions/tree/master/0032-longest-valid-parentheses) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Arvind22cse/Leetcode_solutions/tree/master/2021-remove-all-occurrences-of-a-substring) |
 ## Geometry
 |  |
@@ -100,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/Arvind22cse/Leetcode_solutions/tree/master/0032-longest-valid-parentheses) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Arvind22cse/Leetcode_solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Arvind22cse/Leetcode_solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Arvind22cse/Leetcode_solutions/tree/master/0905-length-of-longest-fibonacci-subsequence) |
