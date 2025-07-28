@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Arvind22cse/Leetcode_solutions/tree/master/0020-valid-parentheses) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Arvind22cse/Leetcode_solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0032-longest-valid-parentheses](https://github.com/Arvind22cse/Leetcode_solutions/tree/master/0032-longest-valid-parentheses) |
 | [0242-valid-anagram](https://github.com/Arvind22cse/Leetcode_solutions/tree/master/0242-valid-anagram) |
 | [0468-validate-ip-address](https://github.com/Arvind22cse/Leetcode_solutions/tree/master/0468-validate-ip-address) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/Arvind22cse/Leetcode_solutions/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Arvind22cse/Leetcode_solutions/tree/master/0018-4sum) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Arvind22cse/Leetcode_solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0086-partition-list](https://github.com/Arvind22cse/Leetcode_solutions/tree/master/0086-partition-list) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Arvind22cse/Leetcode_solutions/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 ## Design
@@ -172,4 +174,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/Arvind22cse/Leetcode_solutions/tree/master/0570-managers-with-at-least-5-direct-reports) |
 | [1338-queries-quality-and-percentage](https://github.com/Arvind22cse/Leetcode_solutions/tree/master/1338-queries-quality-and-percentage) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Arvind22cse/Leetcode_solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
