@@ -181,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/Arvind22cse/Leetcode_solutions/tree/master/0570-managers-with-at-least-5-direct-reports) |
+| [1292-immediate-food-delivery-ii](https://github.com/Arvind22cse/Leetcode_solutions/tree/master/1292-immediate-food-delivery-ii) |
 | [1317-monthly-transactions-i](https://github.com/Arvind22cse/Leetcode_solutions/tree/master/1317-monthly-transactions-i) |
 | [1338-queries-quality-and-percentage](https://github.com/Arvind22cse/Leetcode_solutions/tree/master/1338-queries-quality-and-percentage) |
 ## String Matching
