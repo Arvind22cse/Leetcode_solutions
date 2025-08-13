@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/Arvind22cse/Leetcode_solutions/tree/master/0032-longest-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/Arvind22cse/Leetcode_solutions/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/Arvind22cse/Leetcode_solutions/tree/master/0242-valid-anagram) |
+| [0345-reverse-vowels-of-a-string](https://github.com/Arvind22cse/Leetcode_solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/Arvind22cse/Leetcode_solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0468-validate-ip-address](https://github.com/Arvind22cse/Leetcode_solutions/tree/master/0468-validate-ip-address) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/Arvind22cse/Leetcode_solutions/tree/master/1093-recover-a-tree-from-preorder-traversal) |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/Arvind22cse/Leetcode_solutions/tree/master/0018-4sum) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Arvind22cse/Leetcode_solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0086-partition-list](https://github.com/Arvind22cse/Leetcode_solutions/tree/master/0086-partition-list) |
+| [0345-reverse-vowels-of-a-string](https://github.com/Arvind22cse/Leetcode_solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Arvind22cse/Leetcode_solutions/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 ## Design
 |  |
