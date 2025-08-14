@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2411-spiral-matrix-iv](https://github.com/Arvind22cse/Leetcode_solutions/tree/master/2411-spiral-matrix-iv) |
 | [2448-count-number-of-bad-pairs](https://github.com/Arvind22cse/Leetcode_solutions/tree/master/2448-count-number-of-bad-pairs) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Arvind22cse/Leetcode_solutions/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
+| [3723-sum-of-good-numbers](https://github.com/Arvind22cse/Leetcode_solutions/tree/master/3723-sum-of-good-numbers) |
 ## Hash Table
 |  |
 | ------- |
