@@ -29,12 +29,13 @@ class Solution {
                 }
                 
             }
-            // if((nums[i+k]<nums[i])&& (nums[i-k]<nums[i]) && (i+k)<n && (i-k)>=0){
-                if (i + k < n && i - k >= 0 &&
-                nums[i + k] < nums[i] && nums[i - k] < nums[i]) { 
+            if(i+k<n && i-k>=0){
+            if(nums[i+k]<nums[i]&& nums[i-k]<nums[i] ){
+                // if (i + k < n && i - k >= 0 &&
+                // nums[i + k] < nums[i] && nums[i - k] < nums[i]) { 
                 s+=nums[i];
-                
             }
+        }
         }
         return s;
     }
