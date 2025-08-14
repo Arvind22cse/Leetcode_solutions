@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/Arvind22cse/Leetcode_solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0015-3sum](https://github.com/Arvind22cse/Leetcode_solutions/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Arvind22cse/Leetcode_solutions/tree/master/0018-4sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Arvind22cse/Leetcode_solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Arvind22cse/Leetcode_solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0037-sudoku-solver](https://github.com/Arvind22cse/Leetcode_solutions/tree/master/0037-sudoku-solver) |
 | [0049-group-anagrams](https://github.com/Arvind22cse/Leetcode_solutions/tree/master/0049-group-anagrams) |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/Arvind22cse/Leetcode_solutions/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Arvind22cse/Leetcode_solutions/tree/master/0018-4sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Arvind22cse/Leetcode_solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Arvind22cse/Leetcode_solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0086-partition-list](https://github.com/Arvind22cse/Leetcode_solutions/tree/master/0086-partition-list) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Arvind22cse/Leetcode_solutions/tree/master/0345-reverse-vowels-of-a-string) |
