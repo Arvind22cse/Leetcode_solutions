@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/Arvind22cse/Leetcode_solutions/tree/master/0062-unique-paths) |
 | [0888-mirror-reflection](https://github.com/Arvind22cse/Leetcode_solutions/tree/master/0888-mirror-reflection) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Arvind22cse/Leetcode_solutions/tree/master/1477-product-of-the-last-k-numbers) |
 | [2448-count-number-of-bad-pairs](https://github.com/Arvind22cse/Leetcode_solutions/tree/master/2448-count-number-of-bad-pairs) |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/Arvind22cse/Leetcode_solutions/tree/master/0032-longest-valid-parentheses) |
 | [0053-maximum-subarray](https://github.com/Arvind22cse/Leetcode_solutions/tree/master/0053-maximum-subarray) |
+| [0062-unique-paths](https://github.com/Arvind22cse/Leetcode_solutions/tree/master/0062-unique-paths) |
 | [0064-minimum-path-sum](https://github.com/Arvind22cse/Leetcode_solutions/tree/master/0064-minimum-path-sum) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Arvind22cse/Leetcode_solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Arvind22cse/Leetcode_solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -226,4 +228,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Arvind22cse/Leetcode_solutions/tree/master/0014-longest-common-prefix) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/Arvind22cse/Leetcode_solutions/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
