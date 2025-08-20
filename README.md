@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0023-merge-k-sorted-lists](https://github.com/Arvind22cse/Leetcode_solutions/tree/master/0023-merge-k-sorted-lists) |
 | [0086-partition-list](https://github.com/Arvind22cse/Leetcode_solutions/tree/master/0086-partition-list) |
 | [0092-reverse-linked-list-ii](https://github.com/Arvind22cse/Leetcode_solutions/tree/master/0092-reverse-linked-list-ii) |
+| [0816-design-hashset](https://github.com/Arvind22cse/Leetcode_solutions/tree/master/0816-design-hashset) |
 | [2411-spiral-matrix-iv](https://github.com/Arvind22cse/Leetcode_solutions/tree/master/2411-spiral-matrix-iv) |
 ## Array
 |  |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Arvind22cse/Leetcode_solutions/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/Arvind22cse/Leetcode_solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0643-maximum-average-subarray-i](https://github.com/Arvind22cse/Leetcode_solutions/tree/master/0643-maximum-average-subarray-i) |
+| [0816-design-hashset](https://github.com/Arvind22cse/Leetcode_solutions/tree/master/0816-design-hashset) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Arvind22cse/Leetcode_solutions/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [1025-minimum-cost-for-tickets](https://github.com/Arvind22cse/Leetcode_solutions/tree/master/1025-minimum-cost-for-tickets) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Arvind22cse/Leetcode_solutions/tree/master/1477-product-of-the-last-k-numbers) |
@@ -49,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Arvind22cse/Leetcode_solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0387-first-unique-character-in-a-string](https://github.com/Arvind22cse/Leetcode_solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0567-permutation-in-string](https://github.com/Arvind22cse/Leetcode_solutions/tree/master/0567-permutation-in-string) |
+| [0816-design-hashset](https://github.com/Arvind22cse/Leetcode_solutions/tree/master/0816-design-hashset) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Arvind22cse/Leetcode_solutions/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [1160-letter-tile-possibilities](https://github.com/Arvind22cse/Leetcode_solutions/tree/master/1160-letter-tile-possibilities) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/Arvind22cse/Leetcode_solutions/tree/master/1960-check-if-the-sentence-is-pangram) |
@@ -167,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0816-design-hashset](https://github.com/Arvind22cse/Leetcode_solutions/tree/master/0816-design-hashset) |
 | [0885-exam-room](https://github.com/Arvind22cse/Leetcode_solutions/tree/master/0885-exam-room) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Arvind22cse/Leetcode_solutions/tree/master/1477-product-of-the-last-k-numbers) |
 ## Data Stream
@@ -255,4 +259,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Arvind22cse/Leetcode_solutions/tree/master/0042-trapping-rain-water) |
+## Hash Function
+|  |
+| ------- |
+| [0816-design-hashset](https://github.com/Arvind22cse/Leetcode_solutions/tree/master/0816-design-hashset) |
 <!---LeetCode Topics End-->
