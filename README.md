@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/Arvind22cse/Leetcode_solutions/tree/master/0064-minimum-path-sum) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Arvind22cse/Leetcode_solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Arvind22cse/Leetcode_solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0349-intersection-of-two-arrays](https://github.com/Arvind22cse/Leetcode_solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0643-maximum-average-subarray-i](https://github.com/Arvind22cse/Leetcode_solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Arvind22cse/Leetcode_solutions/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [1025-minimum-cost-for-tickets](https://github.com/Arvind22cse/Leetcode_solutions/tree/master/1025-minimum-cost-for-tickets) |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/Arvind22cse/Leetcode_solutions/tree/master/0037-sudoku-solver) |
 | [0049-group-anagrams](https://github.com/Arvind22cse/Leetcode_solutions/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/Arvind22cse/Leetcode_solutions/tree/master/0242-valid-anagram) |
+| [0349-intersection-of-two-arrays](https://github.com/Arvind22cse/Leetcode_solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0387-first-unique-character-in-a-string](https://github.com/Arvind22cse/Leetcode_solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0567-permutation-in-string](https://github.com/Arvind22cse/Leetcode_solutions/tree/master/0567-permutation-in-string) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Arvind22cse/Leetcode_solutions/tree/master/0905-length-of-longest-fibonacci-subsequence) |
@@ -110,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/Arvind22cse/Leetcode_solutions/tree/master/0018-4sum) |
 | [0049-group-anagrams](https://github.com/Arvind22cse/Leetcode_solutions/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/Arvind22cse/Leetcode_solutions/tree/master/0242-valid-anagram) |
+| [0349-intersection-of-two-arrays](https://github.com/Arvind22cse/Leetcode_solutions/tree/master/0349-intersection-of-two-arrays) |
 | [1961-maximum-ice-cream-bars](https://github.com/Arvind22cse/Leetcode_solutions/tree/master/1961-maximum-ice-cream-bars) |
 ## Counting Sort
 |  |
@@ -154,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Arvind22cse/Leetcode_solutions/tree/master/0042-trapping-rain-water) |
 | [0086-partition-list](https://github.com/Arvind22cse/Leetcode_solutions/tree/master/0086-partition-list) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Arvind22cse/Leetcode_solutions/tree/master/0345-reverse-vowels-of-a-string) |
+| [0349-intersection-of-two-arrays](https://github.com/Arvind22cse/Leetcode_solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Arvind22cse/Leetcode_solutions/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0567-permutation-in-string](https://github.com/Arvind22cse/Leetcode_solutions/tree/master/0567-permutation-in-string) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Arvind22cse/Leetcode_solutions/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
@@ -231,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Arvind22cse/Leetcode_solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Arvind22cse/Leetcode_solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0349-intersection-of-two-arrays](https://github.com/Arvind22cse/Leetcode_solutions/tree/master/0349-intersection-of-two-arrays) |
 ## Queue
 |  |
 | ------- |
