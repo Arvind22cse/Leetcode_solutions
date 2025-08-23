@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/Arvind22cse/Leetcode_solutions/tree/master/0062-unique-paths) |
+| [0224-basic-calculator](https://github.com/Arvind22cse/Leetcode_solutions/tree/master/0224-basic-calculator) |
 | [0888-mirror-reflection](https://github.com/Arvind22cse/Leetcode_solutions/tree/master/0888-mirror-reflection) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Arvind22cse/Leetcode_solutions/tree/master/1477-product-of-the-last-k-numbers) |
 | [2448-count-number-of-bad-pairs](https://github.com/Arvind22cse/Leetcode_solutions/tree/master/2448-count-number-of-bad-pairs) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Arvind22cse/Leetcode_solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0032-longest-valid-parentheses](https://github.com/Arvind22cse/Leetcode_solutions/tree/master/0032-longest-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/Arvind22cse/Leetcode_solutions/tree/master/0049-group-anagrams) |
+| [0224-basic-calculator](https://github.com/Arvind22cse/Leetcode_solutions/tree/master/0224-basic-calculator) |
 | [0242-valid-anagram](https://github.com/Arvind22cse/Leetcode_solutions/tree/master/0242-valid-anagram) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Arvind22cse/Leetcode_solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/Arvind22cse/Leetcode_solutions/tree/master/0387-first-unique-character-in-a-string) |
@@ -130,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Arvind22cse/Leetcode_solutions/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Arvind22cse/Leetcode_solutions/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Arvind22cse/Leetcode_solutions/tree/master/0042-trapping-rain-water) |
+| [0224-basic-calculator](https://github.com/Arvind22cse/Leetcode_solutions/tree/master/0224-basic-calculator) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Arvind22cse/Leetcode_solutions/tree/master/2021-remove-all-occurrences-of-a-substring) |
 ## Geometry
 |  |
@@ -263,4 +266,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0816-design-hashset](https://github.com/Arvind22cse/Leetcode_solutions/tree/master/0816-design-hashset) |
+## Recursion
+|  |
+| ------- |
+| [0224-basic-calculator](https://github.com/Arvind22cse/Leetcode_solutions/tree/master/0224-basic-calculator) |
 <!---LeetCode Topics End-->
