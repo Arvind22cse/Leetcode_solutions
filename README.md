@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1960-check-if-the-sentence-is-pangram](https://github.com/Arvind22cse/Leetcode_solutions/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Arvind22cse/Leetcode_solutions/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2107-find-unique-binary-string](https://github.com/Arvind22cse/Leetcode_solutions/tree/master/2107-find-unique-binary-string) |
+| [3195-separate-black-and-white-balls](https://github.com/Arvind22cse/Leetcode_solutions/tree/master/3195-separate-black-and-white-balls) |
 ## Matrix
 |  |
 | ------- |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Arvind22cse/Leetcode_solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [1961-maximum-ice-cream-bars](https://github.com/Arvind22cse/Leetcode_solutions/tree/master/1961-maximum-ice-cream-bars) |
+| [3195-separate-black-and-white-balls](https://github.com/Arvind22cse/Leetcode_solutions/tree/master/3195-separate-black-and-white-balls) |
 ## Sorting
 |  |
 | ------- |
@@ -172,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0557-reverse-words-in-a-string-iii](https://github.com/Arvind22cse/Leetcode_solutions/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0567-permutation-in-string](https://github.com/Arvind22cse/Leetcode_solutions/tree/master/0567-permutation-in-string) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Arvind22cse/Leetcode_solutions/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
+| [3195-separate-black-and-white-balls](https://github.com/Arvind22cse/Leetcode_solutions/tree/master/3195-separate-black-and-white-balls) |
 ## Design
 |  |
 | ------- |
