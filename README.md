@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0468-validate-ip-address](https://github.com/Arvind22cse/Leetcode_solutions/tree/master/0468-validate-ip-address) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Arvind22cse/Leetcode_solutions/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0567-permutation-in-string](https://github.com/Arvind22cse/Leetcode_solutions/tree/master/0567-permutation-in-string) |
+| [0647-palindromic-substrings](https://github.com/Arvind22cse/Leetcode_solutions/tree/master/0647-palindromic-substrings) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/Arvind22cse/Leetcode_solutions/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1160-letter-tile-possibilities](https://github.com/Arvind22cse/Leetcode_solutions/tree/master/1160-letter-tile-possibilities) |
 | [1170-shortest-common-supersequence](https://github.com/Arvind22cse/Leetcode_solutions/tree/master/1170-shortest-common-supersequence) |
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/Arvind22cse/Leetcode_solutions/tree/master/0064-minimum-path-sum) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Arvind22cse/Leetcode_solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Arvind22cse/Leetcode_solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0647-palindromic-substrings](https://github.com/Arvind22cse/Leetcode_solutions/tree/master/0647-palindromic-substrings) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Arvind22cse/Leetcode_solutions/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [1025-minimum-cost-for-tickets](https://github.com/Arvind22cse/Leetcode_solutions/tree/master/1025-minimum-cost-for-tickets) |
 | [1170-shortest-common-supersequence](https://github.com/Arvind22cse/Leetcode_solutions/tree/master/1170-shortest-common-supersequence) |
@@ -178,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Arvind22cse/Leetcode_solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Arvind22cse/Leetcode_solutions/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0567-permutation-in-string](https://github.com/Arvind22cse/Leetcode_solutions/tree/master/0567-permutation-in-string) |
+| [0647-palindromic-substrings](https://github.com/Arvind22cse/Leetcode_solutions/tree/master/0647-palindromic-substrings) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Arvind22cse/Leetcode_solutions/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [3195-separate-black-and-white-balls](https://github.com/Arvind22cse/Leetcode_solutions/tree/master/3195-separate-black-and-white-balls) |
 ## Design
