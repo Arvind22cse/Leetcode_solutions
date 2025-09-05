@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Arvind22cse/Leetcode_solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Arvind22cse/Leetcode_solutions/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/Arvind22cse/Leetcode_solutions/tree/master/0349-intersection-of-two-arrays) |
+| [0383-ransom-note](https://github.com/Arvind22cse/Leetcode_solutions/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Arvind22cse/Leetcode_solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0567-permutation-in-string](https://github.com/Arvind22cse/Leetcode_solutions/tree/master/0567-permutation-in-string) |
 | [0816-design-hashset](https://github.com/Arvind22cse/Leetcode_solutions/tree/master/0816-design-hashset) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0383-ransom-note](https://github.com/Arvind22cse/Leetcode_solutions/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Arvind22cse/Leetcode_solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [1160-letter-tile-possibilities](https://github.com/Arvind22cse/Leetcode_solutions/tree/master/1160-letter-tile-possibilities) |
 | [2448-count-number-of-bad-pairs](https://github.com/Arvind22cse/Leetcode_solutions/tree/master/2448-count-number-of-bad-pairs) |
@@ -89,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0224-basic-calculator](https://github.com/Arvind22cse/Leetcode_solutions/tree/master/0224-basic-calculator) |
 | [0242-valid-anagram](https://github.com/Arvind22cse/Leetcode_solutions/tree/master/0242-valid-anagram) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Arvind22cse/Leetcode_solutions/tree/master/0345-reverse-vowels-of-a-string) |
+| [0383-ransom-note](https://github.com/Arvind22cse/Leetcode_solutions/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Arvind22cse/Leetcode_solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0468-validate-ip-address](https://github.com/Arvind22cse/Leetcode_solutions/tree/master/0468-validate-ip-address) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Arvind22cse/Leetcode_solutions/tree/master/0557-reverse-words-in-a-string-iii) |
