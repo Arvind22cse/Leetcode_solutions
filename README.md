@@ -256,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1317-monthly-transactions-i](https://github.com/Arvind22cse/Leetcode_solutions/tree/master/1317-monthly-transactions-i) |
 | [1338-queries-quality-and-percentage](https://github.com/Arvind22cse/Leetcode_solutions/tree/master/1338-queries-quality-and-percentage) |
 | [1390-average-selling-price](https://github.com/Arvind22cse/Leetcode_solutions/tree/master/1390-average-selling-price) |
+| [1724-customer-who-visited-but-did-not-make-any-transactions](https://github.com/Arvind22cse/Leetcode_solutions/tree/master/1724-customer-who-visited-but-did-not-make-any-transactions) |
 | [2495-number-of-unique-subjects-taught-by-each-teacher](https://github.com/Arvind22cse/Leetcode_solutions/tree/master/2495-number-of-unique-subjects-taught-by-each-teacher) |
 ## String Matching
 |  |
