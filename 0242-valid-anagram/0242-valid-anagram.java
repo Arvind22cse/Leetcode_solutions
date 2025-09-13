@@ -1,19 +1,27 @@
 class Solution {
     public boolean isAnagram(String s, String t) {
-          // If lengths are different, not anagrams
-        if (s.length() != t.length()) {
-            return false;
+        if(s.length()!=t.length())
+           return false;
+        
+        int[] hash=new int[26];
+        int i=0;
+        while(i<s.length()){
+            int x=s.charAt(i)-'a';
+            ++hash[x];
+            i++;
         }
-
-        // Convert to char arrays
-        char[] a = s.toCharArray();
-        char[] b = t.toCharArray();
-
-        // Sort both arrays
-        Arrays.sort(a);
-        Arrays.sort(b);
-
-        // Compare sorted arrays
-        return Arrays.equals(a, b);
+        int j=0;
+        while(j<t.length()){
+            int y=t.charAt(j)-'a';
+            --hash[y];
+            j++;
+        }
+        for(int k=0;k<26;k++){
+            if(hash[k]>0){
+                return false;
+            }
+        }
+        return true;
+        
     }
 }
