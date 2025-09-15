@@ -250,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0197-rising-temperature](https://github.com/Arvind22cse/Leetcode_solutions/tree/master/0197-rising-temperature) |
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/Arvind22cse/Leetcode_solutions/tree/master/0570-managers-with-at-least-5-direct-reports) |
+| [0577-employee-bonus](https://github.com/Arvind22cse/Leetcode_solutions/tree/master/0577-employee-bonus) |
 | [1153-product-sales-analysis-i](https://github.com/Arvind22cse/Leetcode_solutions/tree/master/1153-product-sales-analysis-i) |
 | [1182-game-play-analysis-iv](https://github.com/Arvind22cse/Leetcode_solutions/tree/master/1182-game-play-analysis-iv) |
 | [1245-user-activity-for-the-past-30-days-i](https://github.com/Arvind22cse/Leetcode_solutions/tree/master/1245-user-activity-for-the-past-30-days-i) |
