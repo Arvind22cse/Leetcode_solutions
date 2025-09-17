@@ -7,10 +7,16 @@ class Solution {
             min=Math.min(height[l],height[r]);
             area=min*(r-l);
             if(height[l]<height[r]){
-                l++;
+                int x=l;
+                while(l<r&&height[x]>=height[l]) {
+                    l++;
+                }
             }
             else{
-                r--;
+                int x=r;
+                while(l<r&&height[x]>=height[r]) {
+                    r--;
+                }
             }
             max=Math.max(max,area);
         }
