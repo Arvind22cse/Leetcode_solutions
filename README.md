@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Arvind22cse/Leetcode_solutions/tree/master/0023-merge-k-sorted-lists) |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/Arvind22cse/Leetcode_solutions/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0086-partition-list](https://github.com/Arvind22cse/Leetcode_solutions/tree/master/0086-partition-list) |
 | [0092-reverse-linked-list-ii](https://github.com/Arvind22cse/Leetcode_solutions/tree/master/0092-reverse-linked-list-ii) |
 | [0816-design-hashset](https://github.com/Arvind22cse/Leetcode_solutions/tree/master/0816-design-hashset) |
