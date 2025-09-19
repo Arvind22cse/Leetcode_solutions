@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Arvind22cse/Leetcode_solutions/tree/master/0049-group-anagrams) |
 | [0141-linked-list-cycle](https://github.com/Arvind22cse/Leetcode_solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Arvind22cse/Leetcode_solutions/tree/master/0142-linked-list-cycle-ii) |
+| [0202-happy-number](https://github.com/Arvind22cse/Leetcode_solutions/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/Arvind22cse/Leetcode_solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Arvind22cse/Leetcode_solutions/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/Arvind22cse/Leetcode_solutions/tree/master/0349-intersection-of-two-arrays) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Arvind22cse/Leetcode_solutions/tree/master/0013-roman-to-integer) |
 | [0062-unique-paths](https://github.com/Arvind22cse/Leetcode_solutions/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/Arvind22cse/Leetcode_solutions/tree/master/0066-plus-one) |
+| [0202-happy-number](https://github.com/Arvind22cse/Leetcode_solutions/tree/master/0202-happy-number) |
 | [0224-basic-calculator](https://github.com/Arvind22cse/Leetcode_solutions/tree/master/0224-basic-calculator) |
 | [0888-mirror-reflection](https://github.com/Arvind22cse/Leetcode_solutions/tree/master/0888-mirror-reflection) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Arvind22cse/Leetcode_solutions/tree/master/1477-product-of-the-last-k-numbers) |
@@ -194,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0086-partition-list](https://github.com/Arvind22cse/Leetcode_solutions/tree/master/0086-partition-list) |
 | [0141-linked-list-cycle](https://github.com/Arvind22cse/Leetcode_solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Arvind22cse/Leetcode_solutions/tree/master/0142-linked-list-cycle-ii) |
+| [0202-happy-number](https://github.com/Arvind22cse/Leetcode_solutions/tree/master/0202-happy-number) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Arvind22cse/Leetcode_solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/Arvind22cse/Leetcode_solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Arvind22cse/Leetcode_solutions/tree/master/0557-reverse-words-in-a-string-iii) |
